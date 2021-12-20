@@ -1,0 +1,53 @@
+
+
+
+.cards
+{
+    border: 0 !important;
+}
+.rows
+{
+    width: 80%;
+    margin: auto;
+}
+.sec-container
+{
+    margin-top: -170px;
+    background-color: white;
+}
+.social-med a
+{
+    color: white;
+}
+.header-tex
+{
+    margin-top: 100px;
+}
+.call
+{
+    border: 2px solid white;
+    padding: 10px;
+}
+.btn
+{
+    border: 2px solid grey;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+@media screen and (max-width: 990px)
+{
+    .nava
+    {
+        display: none;
+    }
+    .call
+    {
+        display: none;
+    }
+    .hert
+    {
+        display: block;
+        margin: auto;
+    }
+}
